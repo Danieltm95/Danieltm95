@@ -1,13 +1,16 @@
 <h1 align="center">Hi 👋, I'm Daniel Ocampo Carvajal</h1>
 <h3 align="center">I'm a Fullstack Developer Form Colombia! English level C2(native)</h3>
 
+- 💬 A little bit about me:
+  Engineer graduated from the University of Quindío (2014-2019) in Colombia and software developer graduated from Henry's bootcamp (2022-2023) in Argentina. I consider myself a very curious, analytical, and leader-oriented person. I enjoy innovating, developing, and finding solutions to problems, which is why I chose to study engineering for five years, I am drawn to big challenges, and I know that software development encompasses many of them. That's why I am determined to pursue this path. **Node.js, React,js**
+
+  - 💬 My most recient project **WORKIFY**: It is a website where you can easily and reliably find a service provider for any need you have. It features a comprehensive system of reviews, ratings, comments, and images, allowing you to assess the reliability, quality, and experience of each service provider. Whether you're looking for carpenters, plumbers, or engineers, you can find them all on this platform. The website also includes a secure payment system, a shopping cart, and various other features. Additionally, it offers a user login and authentication system for enhanced security and it uses, **Node.js, React.js, JavaScript, Redux, Express, PostgreSQL, Firebase, React-Aamin, Email.js, Stripe, and some others**
+
 - 🔭 I’m currently working on [LetsTalk!](https://github.com/Danieltm95/LetsTalk-ChatGPT-voiceOver-Talk)
 
 - 🌱 I’m currently learning **Python and Django**
 
-- 💬 Ask me about **Node.js, React,js**
-
-- 📫 How to reach me **docampoc95@gmail.com or Whatsapp +57 3206629777**
+- 📫 How to reach me **docampoc95@gmail.com or Whatsapp +57 3206629777 and [LinkedIn](https://www.linkedin.com/in/daniel-ocampo-dev/)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
