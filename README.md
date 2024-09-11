@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [LetsTalk!](https://github.com/Danieltm95/LetsTalk-ChatGPT-voiceOver-Talk)
 
-- 🌱 I’m currently learning **Python and Django**
+- 🌱 I’m currently learning **NExt.JS**
 
 - 📫 How to reach me **docampoc95@gmail.com or Whatsapp +57 3206629777 and [LinkedIn](https://www.linkedin.com/in/daniel-ocampo-dev/)**
 
