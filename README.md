@@ -6,7 +6,7 @@
 
   - 💬 My most recient project **WORKIFY**: It is a website where you can easily and reliably find a service provider for any need you have. It features a comprehensive system of reviews, ratings, comments, and images, allowing you to assess the reliability, quality, and experience of each service provider. Whether you're looking for carpenters, plumbers, or engineers, you can find them all on this platform. The website also includes a secure payment system, a shopping cart, and various other features. Additionally, it offers a user login and authentication system for enhanced security and it uses, **Node.js, React.js, JavaScript, Redux, Express, PostgreSQL, Firebase, React-Aamin, Email.js, Stripe, and some others**
 
-- 🔭 I’m currently working on [LetsTalk!](https://github.com/Danieltm95/LetsTalk-ChatGPT-voiceOver-Talk)
+- 🔭 I’m currently working on AGENDU a webapp that connects google calendar with whatsapp i have it orivate if you would like to see it email me. 
 
 - 🌱 I’m currently learning **NExt.JS**
 
